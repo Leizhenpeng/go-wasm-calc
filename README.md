@@ -26,10 +26,9 @@ A simple calculator written in TinyGo and compiled to WebAssembly
 
 
 - ⚡️ [Vue 3](https://github.com/vuejs/core)+[Vite](https://github.com/vitejs/vite)+[pnpm](https://pnpm.io/), 怎么快怎么来
-
 - 🔎 [TinyGo](https://tinygo.org/) 追求最小打包体积
 - 🔥 [wasm](https://webassembly.org/) 玩的就是wasm
-- 🦾 TypeScript, of course
+- 🦾 Golang, of course
 - ☁️ Deploy on Netlify
 
 <br>

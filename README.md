@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='doc/img.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
+  <img src='doc/img.png' alt='go-wasm-calc' width='600'/>
 </p>
 
 <p align='center'>

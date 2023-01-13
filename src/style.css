@@ -60,6 +60,8 @@ h1 {
 
 .card {
   padding: 2em;
+  display: flex;
+  flex-direction: column;
 }
 
 #app {

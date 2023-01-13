@@ -1,5 +1,7 @@
 # go-wasm-calc
+
 > A simple calculator written in TinyGo and compiled to WebAssembly
+
 ![img.png](doc/img.png)
 
 
